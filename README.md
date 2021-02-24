@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80">
 
-<!--
-**lucasellery/lucasellery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lucas Ellery
 
-Here are some ideas to get you started:
+## Hi, guys 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm loving with programming and solve problems using tech.
+I'm a Front end developer ⚛️
+
+:bank:  &nbsp; I'm working at **Somapay**
+ <br/> 😁 &nbsp; Looking for colaborate in Front-end projects using ReactJS.
+ <br/> :school: &nbsp; I can help you with React and CSS (flexbox).
+ <br/> :computer: &nbsp; My stack: Javascript, HTML, CSS & ReactJ
+ <br/> 💬  &nbsp; About me: I love tech, books, films, Netflix series and play acoustic guitar.
+ <br/> :email: &nbsp; Talk to me: https://www.linkedin.com/in/lucas-arruda-ellery-82753118a/
+
