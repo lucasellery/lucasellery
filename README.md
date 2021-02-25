@@ -5,7 +5,7 @@
 ## Hi, guys 👋
 
 I'm loving with programming and solve problems using tech.
-I'm a Front end developer ⚛️
+<br />I'm a Front end developer ⚛️
 
 :bank:  &nbsp; Currently I'm working at **Somapay**
  <br/> 😁 &nbsp; Looking for colaborate in Front-end projects using ReactJS.
