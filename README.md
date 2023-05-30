@@ -9,4 +9,4 @@ I'm loving with programming and solve problems using tech.
  <br/> 😁 &nbsp; Looking for colaborate in Front-end projects using ReactJS.
  <br/> :computer: &nbsp; My stack: Javascript, Typescript, HTML, CSS, ReactJS and React Native.
  <br/> 💬  &nbsp; About me: I love tech, books, films, Netflix series and sports.
- <br/> :email: &nbsp; Talk to me: https://www.linkedin.com/in/lucas-arruda-ellery-82753118a/
+ <br/> :email: &nbsp; Talk to me: [https://www.linkedin.com/in/lucas-arruda-ellery-82753118a/](https://www.linkedin.com/in/lucas-ellery/)
